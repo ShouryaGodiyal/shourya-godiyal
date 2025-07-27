@@ -23,5 +23,5 @@ Learning Git, REST APIs, Express
 ---
 
 ### 📫 Connect With Me:
-- LinkedIn: *[your link here]*
-- Email: *[your email here]*
+- LinkedIn: https://www.linkedin.com/in/shourya-godiyal-102460335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: shouryagodiyal18@gmail.com
